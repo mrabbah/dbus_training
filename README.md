@@ -1,5 +1,6 @@
 # dbus_training
-D-bus first steps
-[the tutorial](dbus_training.ipynb)
+
+Follow those links to train on Dbus
+1. [Getting started](dbus_training.ipynb)
 
 
